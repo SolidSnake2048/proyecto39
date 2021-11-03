@@ -126,9 +126,9 @@ function draw(){
 
       trex.collide(invisibleGround);
 
-      trex.collide(obstacle1);
-      trex.collide(obstacle2);
-      trex.collide(obstacle3);
+      //trex.collide(obstacle1);
+      //trex.collide(obstacle2);
+      //trex.collide(obstacle3);
       drawSprites();
 }
 
